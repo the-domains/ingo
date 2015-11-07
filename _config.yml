@@ -1,0 +1,23 @@
+name: ingo
+favicon: null
+layout_spectrum: 0.5464141550473869
+typography_spectrum: 0.5496926372870803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.02693739696405828
+  lightness: 0.9985821365844458
+  saturation: 0.35103168757632375
+  rhythmicContrast: 0.6741032812278718
+purpose: []
