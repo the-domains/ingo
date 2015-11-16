@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ingo]]></title>
+        <description><![CDATA[ingo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 13:09:45 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Before & After]]></title>
+            <description><![CDATA[<article><h1>Before & After</h1><p>documenting my experience with prostate cancer</p></article>]]></description>
+            <link>undefinedbefore-and-after/index.html</link>
+            <guid isPermaLink="false">da34766d-c462-47bb-bcd0-895befc9b751</guid>
+            <pubDate>Mon, 16 Nov 2015 13:09:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
