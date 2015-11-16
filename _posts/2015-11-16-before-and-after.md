@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: documenting my experience with prostate cancer
-datePublished: '2015-11-16T13:13:41.493Z'
-dateModified: '2015-11-16T13:13:19.258Z'
+datePublished: '2015-11-16T13:17:47.281Z'
+dateModified: '2015-11-16T13:14:32.269Z'
 title: 'Before & After'
 sourcePath: _posts/2015-11-16-before-and-after.md
 published: true
